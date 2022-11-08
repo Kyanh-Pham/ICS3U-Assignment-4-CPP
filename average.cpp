@@ -49,7 +49,7 @@ int main() {
         }
     } catch (std::invalid_argument) {
          std::cout
-          << "Invalid input, please input a integer between 0-100."
+          << "Invalid input, please input an integer between 0-100."
            << std::endl;
     }
 
